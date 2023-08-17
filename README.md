@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tololoy
+- 👋 Hi, I’m @Tololoy (Eloy Colirio )
 - 👀 I’m interested in increse my seniority level and programming skills , data , web development
 - 🌱 I’m currently learning Spring framework, Angular and Node
 
